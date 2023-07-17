@@ -1,0 +1,15 @@
+C:\Users\Тионс\Desktop\homework3\seminar03\bin\Debug\net7.0\seminar03.exe
+C:\Users\Тионс\Desktop\homework3\seminar03\bin\Debug\net7.0\seminar03.deps.json
+C:\Users\Тионс\Desktop\homework3\seminar03\bin\Debug\net7.0\seminar03.runtimeconfig.json
+C:\Users\Тионс\Desktop\homework3\seminar03\bin\Debug\net7.0\seminar03.dll
+C:\Users\Тионс\Desktop\homework3\seminar03\bin\Debug\net7.0\seminar03.pdb
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.csproj.AssemblyReference.cache
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.AssemblyInfoInputs.cache
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.AssemblyInfo.cs
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.csproj.CoreCompileInputs.cache
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.dll
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\refint\seminar03.dll
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.pdb
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\seminar03.genruntimeconfig.cache
+C:\Users\Тионс\Desktop\homework3\seminar03\obj\Debug\net7.0\ref\seminar03.dll
